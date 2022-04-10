@@ -6,14 +6,14 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/start.unity
+    guid: 5caa46059475c1c4ca264463a371a924
+  - enabled: 1
     path: Assets/Scenes/Game.unity
     guid: 13e77d7de9f4ee94cb7bc480dbe815d3
   - enabled: 1
     path: Assets/Scenes/fired.unity
     guid: 26f29b6877696f148a36fe48e3af45ab
-  - enabled: 1
-    path: Assets/Scenes/start.unity
-    guid: 5caa46059475c1c4ca264463a371a924
   - enabled: 1
     path: Assets/Scenes/Meltdown.unity
     guid: 1b58f1da742c1d148a6c590289f36f86
