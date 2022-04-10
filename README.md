@@ -1,3 +1,5 @@
+![rock](https://user-images.githubusercontent.com/45080494/162640594-46e621c7-0a7a-454c-9aa2-1979689f1a26.png)
+
 # Soviet Office Simulator
 
 ### AKA "actually-actually-actually-ld49"
