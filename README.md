@@ -1,4 +1,5 @@
-![rock](https://user-images.githubusercontent.com/45080494/162640594-46e621c7-0a7a-454c-9aa2-1979689f1a26.png)
+![rock](https://user-images.githubusercontent.com/45080494/162640594-46e621c7-0a7a-454c-9aa2-1979689f1a26.png)![47979](https://user-images.githubusercontent.com/45080494/163362040-11f3ff2f-58f1-49b5-8672-a2638651c2f8.jpg)
+
 
 # Soviet Office Simulator
 
