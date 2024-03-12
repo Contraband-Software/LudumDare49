@@ -11,7 +11,7 @@ Our entry for Ludum Dare 49.
 
 Made in Unity 2020.3.18f1 with HDRP
 
-Made by [@JakubBala](https://github.com/LAGJakub), [@SamTaseff](https://github.com/2004seraph) and [@JuliusVanderArend](https://github.com/JuliusVanderArend)
+Made by [@JakubBala](https://github.com/JakubBala), [@SamTaseff](https://github.com/2004seraph) and [@JuliusVanderArend](https://github.com/JuliusVanderArend)
 
 [Play it here](https://ldjam.com/events/ludum-dare/49/soviet-office-simulator)
 
